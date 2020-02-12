@@ -31,7 +31,7 @@
 # 工具篇
 
 ## Systemtap
-* [awesome-systemtap-cn](https://github.com/lichuang/awesome-systemtap-cn)：https://github.com/lichuang/awesome-systemtap-cn。
+* [awesome-systemtap-cn](https://github.com/lichuang/awesome-systemtap-cn)：采集网络上优秀的systemtap学习资源。
 
 # 性能优化
 * [Red Hat Enterprise Linux Network Performance Tuning
