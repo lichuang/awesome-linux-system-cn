@@ -5,10 +5,12 @@
 * [中断篇](#中断篇)
 * [进程篇](#进程篇)
 * [网络篇](#网络篇)
+* [内存](#内存)
 * [工具篇](#工具篇)
 * [性能优化](#性能优化)
 * [杂](#杂)
 * [集大成者](#集大成者)
+* [博客](#博客)
 
 # 系统调用
 * [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)：Linux系统调用权威指南。
@@ -20,13 +22,16 @@
 
 # 进程篇
 ## 进程调度
-* [Linux CFS调度器之pick_next_task_fair选择下一个被调度的进程--Linux进程的管理与调度(二十八）](https://www.cnblogs.com/linhaostudy/p/9977126.html)
+* [Linux CFS调度器](https://www.cnblogs.com/linhaostudy/category/1073650.html)
 * [CFS调度器（1）-基本原理](http://www.wowotech.net/process_management/447.html)
 * [CFS调度器（2）-源码解析](http://www.wowotech.net/process_management/448.html)
 
 # 网络篇
 * [Monitoring and Tuning the Linux Networking Stack: Receiving Data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
 * [[译] Linux 网络栈监控和调优：发送数据](https://arthurchiao.github.io/blog/tuning-stack-tx-zh/)：上文的中译版
+
+# 内存
+* [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 
 # 工具篇
 
@@ -44,3 +49,6 @@ Guide](https://access.redhat.com/sites/default/files/attachments/20150325_networ
 
 # 集大成者
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/)：一份开放文档，介绍了Linux系统的很多原理。
+
+# 博客
+* [Linux Performance](http://linuxperf.com/)：大量Linux系统、调优内容。
