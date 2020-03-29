@@ -6,6 +6,7 @@
 * [进程篇](#进程篇)
 * [网络篇](#网络篇)
 * [内存](#内存)
+* [文件系统](#文件系统)
 * [工具篇](#工具篇)
 * [性能优化](#性能优化)
 * [杂](#杂)
@@ -39,6 +40,15 @@
 * [Linux内存地址映射](http://www.ilinuxkernel.com/files/Linux_Memory_Address_Mapping.pdf)
 * [内存与调试-内存管理(1)实/保护模式与分段/分页管理](https://www.huaijiujia.com/2019/07/26/%E5%86%85%E5%AD%98%E4%B8%8E%E8%B0%83%E8%AF%95-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%861%E5%AE%9E-%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%88%86%E6%AE%B5-%E5%88%86%E9%A1%B5%E7%AE%A1%E7%90%86/)
 
+# 文件系统
+* [The Second Extended File System](https://www.nongnu.org/ext2-doc/ext2.pdf)
+* [The Second Extended File System](http://www.dubeiko.com/development/FileSystems/ext2fs/ext2file.pdf)
+* [Design and Implementation of the Second Extended Filesystem](https://web.stanford.edu/class/cs240/old/sp2014/readings/ext2_design.pdf)
+* [Linux内核文件Cache机制](http://www.ilinuxkernel.com/files/Linux.Kernel.Cache.pdf)
+* [Linux内核Page Cache和Buffer Cache关系及演化历史](http://lday.me/2019/09/09/0023_linux_page_cache_and_buffer_cache/)
+* [FREE命令显示的BUFFERS与CACHED的区别](http://linuxperf.com/?p=32)
+* [Writing a FUSE Filesystem: a Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
+
 # 工具篇
 
 ## Systemtap
@@ -47,11 +57,15 @@
 # 性能优化
 * [Red Hat Enterprise Linux Network Performance Tuning
 Guide](https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf)
+* [Linux Performance and Tuning Guidelines的中文翻译](https://github.com/xiajian/LinuxPreformanceBook)
+* [Linux System and Performance Monitoring](http://www.ufsdump.org/papers/linuxcon2010-linux-monitoring.pdf)
 
 # 杂
 ## event trace
 * [ftrace 中 eventtracing 的实现原理](https://www.ibm.com/developerworks/cn/linux/1609_houp_ftrace/index.html)
 
+## 内核实验
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/)
 
 # 集大成者
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/)：一份开放文档，介绍了Linux系统的很多原理。
