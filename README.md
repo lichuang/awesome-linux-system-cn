@@ -59,6 +59,7 @@
 Guide](https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf)
 * [Linux Performance and Tuning Guidelines的中文翻译](https://github.com/xiajian/LinuxPreformanceBook)
 * [Linux System and Performance Monitoring](http://www.ufsdump.org/papers/linuxcon2010-linux-monitoring.pdf)
+* [Optimizing web servers for high throughput and low latency](https://dropbox.tech/infrastructure/optimizing-web-servers-for-high-throughput-and-low-latency)
 
 # 杂
 ## event trace
